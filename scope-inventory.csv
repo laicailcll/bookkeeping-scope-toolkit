@@ -1,0 +1,4 @@
+month,account_alias,account_type,transaction_count,statement_status,needs_recording,needs_corrections,needs_reconciliation,notes
+2026-01,Operating bank,bank,45,available,yes,no,yes,Illustrative row
+2026-01,Business card,credit_card,,missing,unknown,unknown,yes,Illustrative row. Request statement.
+2026-02,Operating bank,bank,52,available,no,yes,yes,Illustrative row. Review duplicate transfer.

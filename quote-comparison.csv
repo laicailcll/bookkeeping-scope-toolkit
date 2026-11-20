@@ -1,0 +1,3 @@
+provider,monthly_base_usd,required_monthly_add_ons_usd,setup_fee_usd,catch_up_fee_usd,record_missing_entries,correct_entries,reconcile_accounts,deliver_reports,notes
+Example A,250,50,100,400,included,included,included,included,Fictional example.
+Example B,280,0,0,,included,unknown,included,included,Fictional example. Catch-up fee pending.
